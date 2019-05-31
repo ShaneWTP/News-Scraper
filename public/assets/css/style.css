@@ -1,14 +1,21 @@
 .jumbotron {
-  background-image: url("../img/header.png");
+  background-image: url("../img/header.jpg");
   background-size: cover;
 }
 
-h1 {
-  text-align: center;
+#header {
+  text-align: right;
+  color: red;
   font-size: 80px;
   font-family: 'Pacifico', cursive;
 }
 
+
+
+#buttons {
+  text-align: center;
+  display: inline-block;
+}
 body {
   background-image: url("/assets/img/background.jpg");
   padding-top: 70px;
