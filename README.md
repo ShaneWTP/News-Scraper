@@ -1,1 +1,5 @@
 # News-Scraper
+
+## Functionality
+
+In this application. The user is able to scrape the Rolling Stone Music News site. The user presses the "Scrape" button and the News articles are displayed. Each article has a title, summary, and link. Each article also has a "Save Article" button. When that button is clicked. The article then is removed from the Home page and displayed under the Saved Articles page. Once an article is in the Saved Articles page, it is rendered the same as on the Home page. The "Save Article" button is now replaced by a "View/Add Notes" button and a "Delete" button. The "View/Add Notes" button allows the user to add or edit a note about the article (currently not functioning). The "Delete" button allows the user to delete the article from the Saved Articles and then renders it back to the Home page.
